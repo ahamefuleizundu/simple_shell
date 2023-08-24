@@ -1,0 +1,2 @@
+For compilation of our code we used
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
